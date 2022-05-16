@@ -13,4 +13,6 @@ cd termux-banner
 chmod +x *
 
 bash requirement.sh
+
+
 bash t-ban.sh
