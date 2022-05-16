@@ -2,7 +2,7 @@
 #
 #
 # Termux Banner
-# Banner by Technical Dada (KP)
+# Banner by Pankaj Mourya
 # _____Do Not Copy Or Modify_____
 #
 #
