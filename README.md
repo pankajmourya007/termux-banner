@@ -3,16 +3,16 @@
 
 ***Script by PANKAJ MOURYA***
 
-Installation Step:
+♠Installation Step:
 
 
-git clone https://github.com/pankajmourya007/termux-banner.git
+$ git clone https://github.com/pankajmourya007/termux-banner.git
 
-cd termux-banner
+$ cd termux-banner
 
-chmod +x *
+$ chmod +x *
 
-bash requirement.sh
+$ bash requirement.sh
 
 
-bash t-ban.sh
+$ bash t-ban.sh
